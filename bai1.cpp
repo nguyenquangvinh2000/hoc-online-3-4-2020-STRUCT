@@ -36,3 +36,11 @@ int main()
   cout<<"3. "<<nguoi3.hoten <<"\t\t"<<nguoi3.phonenumber<<"\t\t"<<nguoi3.email<<endl;  
   return 0;
 }
+/*
+Bài 1. (10 phút) Viết chương trình nhập vào thông tin danh bạ gồm: Họ tên, Số điện thoại, Email cho 3 người. 
+Sau đó in ra màn hình dưới dạng sau: 
+1.      Dau Hai Phong       091234567       phong@gmail.com 
+2.      Nguyen Duc Dan      093456789       dan@gmail.com
+3.      Pham Truong Giang   098765432       giang@gmail.com 
+Yêu cầu sử dụng 3 biến kiểu Struct danhba
+*/
